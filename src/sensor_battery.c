@@ -1,4 +1,4 @@
-#include "sensor_battery.h"
+#include "../lib/sensor_battery.h"
 
 #define MAX_ADC_VAL 4095
 #define VREF 3.3f
