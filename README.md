@@ -70,6 +70,7 @@ int main(void) {
 
     return UNITY_END(); // Finalização e retorno do status para o SO
 }
+```
 
 ### Flags de Configuração
 O comportamento do Unity pode ser alterado via definições de pré-processador (`#define`) ou flags de compilação `-D`.
